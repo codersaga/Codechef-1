@@ -54,7 +54,6 @@ for _ in range(int(input())):
             
             
         
-    
     if not isSorted:
         print(-1)
     if isSorted and operations<=k:
